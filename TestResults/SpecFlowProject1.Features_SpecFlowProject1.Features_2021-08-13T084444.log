@@ -1,0 +1,126 @@
+﻿2021-08-13T08:44:44.0946939+10:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-08-13T08:44:44.0947724+10:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework netcore31 in x64 mode execution started
+2021-08-13T08:44:44.0947766+10:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-08-13T08:44:44.0970294+10:00;VSTestExecutionThread;Info;Current UserName: 'asaldi', MachineName: 'KMVN2542'
+2021-08-13T08:44:44.2267125+10:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2021-08-13T08:44:44.2268896+10:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\asaldi\Downloads\automation\SpecFlowProject1\TestResults" (default)
+2021-08-13T08:44:44.2269479+10:00;VSTestExecutionThread;Info;Profile: SpecFlowProject1.Features
+2021-08-13T08:44:44.2677885+10:00;VSTestExecutionThread;Info;Log file path: C:\Users\asaldi\Downloads\automation\SpecFlowProject1\TestResults\SpecFlowProject1.Features_SpecFlowProject1.Features_2021-08-13T084444.log
+2021-08-13T08:44:44.2730851+10:00;Thread#14;Info;Checking activation
+2021-08-13T08:44:44.3915274+10:00;Thread#14;Info;Activated.
+2021-08-13T08:44:44.3917702+10:00;Thread#14;Info;Activation check completed
+2021-08-13T08:44:44.3919125+10:00;Thread#14;Info;Starting test run
+2021-08-13T08:44:44.4791731+10:00;Thread#14;Info;Discovering target: Default
+2021-08-13T08:44:44.4794202+10:00;Thread#14;Info;Discovering tests from assembly: C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2021-08-13T08:44:44.5875047+10:00;Thread#14;Info;Discovered tests from assembly: C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2021-08-13T08:44:44.5884683+10:00:Test Suite Dump
+2021-08-13T08:44:44.5897697+10:00:#0: SpecFlowProject1.Features/SpecFlowProject1.Features - 
+2021-08-13T08:44:44.5897928+10:00:#1: Default - 
+2021-08-13T08:44:44.5897954+10:00:#2: SpecFlowProject1 - 
+2021-08-13T08:44:44.5897969+10:00:#5: Product Service - 
+2021-08-13T08:44:44.5907122+10:00:#7: Validate post for creating an option, 929fb981-2066-41ac-b2bf-5cd81dd003f0 - TestAssembly:SpecFlowProject1/Feature:Product+Service/Scenario:Validate+post+for+creating+an+option%2c+929fb981-2066-41ac-b2bf-5cd81dd003f0
+2021-08-13T08:44:44.5907622+10:00:End: Test Suite Dump
+2021-08-13T08:44:44.6183384+10:00:Thread#1:Scheduler: get next test for thread 1
+2021-08-13T08:44:44.6196524+10:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2021-08-13T08:44:44.6196987+10:00:Thread#1:Scheduler: considering testitem #7 for thread 1
+2021-08-13T08:44:44.6226956+10:00:Thread#1:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2021-08-13T08:44:44.6227088+10:00:Thread#1:TestItem#7:runsOnOneOtherThreadSpecific:False
+2021-08-13T08:44:44.6227107+10:00:Thread#1:TestItem#7:runsOnOneOtherThreadUnspecific:True
+2021-08-13T08:44:44.6227129+10:00:Thread#1:Scheduler: using testitem #7 for thread 1
+2021-08-13T08:44:44.6231722+10:00:Thread#1:Scheduler: Test #7 is scheduled for thread
+2021-08-13T08:44:44.6239844+10:00:Thread#1:Scheduler: with testItemExecutionIndex 0
+2021-08-13T08:44:44.6240354+10:00:Thread#0:Scheduler: get next test for thread 0
+2021-08-13T08:44:44.6240707+10:00:Thread#:Scheduler: at the end of normal test queue
+2021-08-13T08:44:44.6240768+10:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-08-13T08:44:44.6240800+10:00:Thread#0:Scheduler: No more tests for thread
+2021-08-13T08:44:44.6241903+10:00:Thread#2:Scheduler: get next test for thread 2
+2021-08-13T08:44:44.6241978+10:00:Thread#:Scheduler: at the end of normal test queue
+2021-08-13T08:44:44.6242004+10:00:Thread#2:Scheduler: enumerator for thread is at end
+2021-08-13T08:44:44.6242039+10:00:Thread#2:Scheduler: No more tests for thread
+2021-08-13T08:44:44.6242210+10:00:Thread#4:Scheduler: get next test for thread 4
+2021-08-13T08:44:44.6242291+10:00:Thread#:Scheduler: at the end of normal test queue
+2021-08-13T08:44:44.6242322+10:00:Thread#4:Scheduler: enumerator for thread is at end
+2021-08-13T08:44:44.6242341+10:00:Thread#4:Scheduler: No more tests for thread
+2021-08-13T08:44:44.6242462+10:00:Thread#3:Scheduler: get next test for thread 3
+2021-08-13T08:44:44.6242530+10:00:Thread#:Scheduler: at the end of normal test queue
+2021-08-13T08:44:44.6242559+10:00:Thread#3:Scheduler: enumerator for thread is at end
+2021-08-13T08:44:44.6242582+10:00:Thread#3:Scheduler: No more tests for thread
+2021-08-13T08:44:44.6271192+10:00:Thread #1: creating new test thread executor for SpecFlowProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-08-13T08:44:44.6339592+10:00:Thread #1: Creating test assembly executor for execution model SharedAppDomain
+2021-08-13T08:44:44.6341132+10:00:Thread #1: Creating test assembly executor for execution model SharedAppDomain
+2021-08-13T08:44:44.6346110+10:00:Thread #1: using TechTalk.SpecRun.Framework.Execution.SharedAppDomain.SharedAppDomainTestAssemblyExecutorHost to execute tests
+2021-08-13T08:44:44.6477154+10:00:Assembly resolving TechTalk.SpecRun.Framework.Executor, Culture=neutral, PublicKeyToken=null
+2021-08-13T08:44:44.6499444+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' from .deps.json file
+2021-08-13T08:44:44.6499750+10:00:[AssemblyCache] Could not resolve 'TechTalk.SpecRun.Framework.Executor' from .deps.json
+2021-08-13T08:44:44.6508440+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-08-13T08:44:44.6511339+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll'
+2021-08-13T08:44:44.6512367+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.exe'
+2021-08-13T08:44:44.6513001+10:00:[AssemblyCache] Could not resolve 'TechTalk.SpecRun.Framework.Executor' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-08-13T08:44:44.6515063+10:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-08-13T08:44:44.6517259+10:00:Tfm: netcoreapp3.1
+2021-08-13T08:44:44.6517371+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-13T08:44:44.6517404+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll'
+2021-08-13T08:44:44.6518108+10:00:[AssemblyCache] Found file 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll' for assembly 'TechTalk.SpecRun.Framework.Executor'
+2021-08-13T08:44:44.6583402+10:00:[AssemblyCache] Resolved 'TechTalk.SpecRun.Framework.Executor' to C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll
+2021-08-13T08:44:44.7419017+10:00:Thread#1:T:-> Loading plugin C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-08-13T08:44:44.7946164+10:00:Thread#1:T:-> Loading plugin C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-08-13T08:44:44.8028455+10:00:Thread#1:T:-> Loading plugin C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2021-08-13T08:44:44.8281313+10:00:Thread#1:T:-> Missing [assembly:RuntimePlugin] attribute in SpecFlowProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-08-13T08:44:44.8320656+10:00:Thread#1:T:-> Using default config
+2021-08-13T08:44:44.9064881+10:00:Thread#1: Test #7/0 is started on thread #1
+2021-08-13T08:44:44.9189754+10:00:Thread#1:B:Given the url is "https://app.products.int.ap-southeast-2.dev.a-sharedinfra.net/"
+2021-08-13T08:44:44.9335369+10:00:Thread#1:T:done: stepDefs.GivenTheUrlIs("https://app.produ...") (0.0s)
+2021-08-13T08:44:44.9344819+10:00:Thread#1:B:Given I perform a POST operation for api/v2/products/929fb981-2066-41ac-b2bf-5cd81dd003f0/options
+2021-08-13T08:44:44.9411834+10:00:Thread#1:T:path is api/v2/products/929fb981-2066-41ac-b2bf-5cd81dd003f0/options
+2021-08-13T08:44:45.2693278+10:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2021-08-13T08:44:45.2693852+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' from .deps.json file
+2021-08-13T08:44:45.2693881+10:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' from .deps.json
+2021-08-13T08:44:45.2693950+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-08-13T08:44:45.2693965+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.dll'
+2021-08-13T08:44:45.2694275+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.exe'
+2021-08-13T08:44:45.2694526+10:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-08-13T08:44:45.2694583+10:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-08-13T08:44:45.2695006+10:00:Tfm: netcoreapp3.1
+2021-08-13T08:44:45.2695036+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-13T08:44:45.2695047+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Net.Requests.resources.dll'
+2021-08-13T08:44:45.2695418+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Net.Requests.resources.exe'
+2021-08-13T08:44:45.2695802+10:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-13T08:44:45.2737622+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.17'
+2021-08-13T08:44:45.2737760+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.17\System.Net.Requests.resources.dll'
+2021-08-13T08:44:45.2738258+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.17\System.Net.Requests.resources.exe'
+2021-08-13T08:44:45.2738545+10:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.17'
+2021-08-13T08:44:45.2740102+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.17'
+2021-08-13T08:44:45.2740172+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.17\System.Net.Requests.resources.dll'
+2021-08-13T08:44:45.2740494+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.17\System.Net.Requests.resources.exe'
+2021-08-13T08:44:45.2740758+10:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.17'
+2021-08-13T08:44:45.2741953+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.17'
+2021-08-13T08:44:45.2742017+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.17\System.Net.Requests.resources.dll'
+2021-08-13T08:44:45.2742354+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.17\System.Net.Requests.resources.exe'
+2021-08-13T08:44:45.2742612+10:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.17'
+2021-08-13T08:44:45.2743668+10:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2021-08-13T08:44:45.2743738+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' from .deps.json file
+2021-08-13T08:44:45.2743756+10:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' from .deps.json
+2021-08-13T08:44:45.2743785+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-08-13T08:44:45.2743796+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.dll'
+2021-08-13T08:44:45.2744153+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.exe'
+2021-08-13T08:44:45.2744402+10:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-08-13T08:44:45.2744437+10:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-08-13T08:44:45.2744501+10:00:Tfm: netcoreapp3.1
+2021-08-13T08:44:45.2744524+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-13T08:44:45.2744534+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Net.Requests.resources.dll'
+2021-08-13T08:44:45.2744828+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Net.Requests.resources.exe'
+2021-08-13T08:44:45.2745069+10:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-13T08:44:45.2748050+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.17'
+2021-08-13T08:44:45.2748130+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.17\System.Net.Requests.resources.dll'
+2021-08-13T08:44:45.2748501+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.17\System.Net.Requests.resources.exe'
+2021-08-13T08:44:45.2748759+10:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.17'
+2021-08-13T08:44:45.2749819+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.17'
+2021-08-13T08:44:45.2749881+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.17\System.Net.Requests.resources.dll'
+2021-08-13T08:44:45.2750194+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.17\System.Net.Requests.resources.exe'
+2021-08-13T08:44:45.2750441+10:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.17'
+2021-08-13T08:44:45.2751568+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.17'
+2021-08-13T08:44:45.2751637+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.17\System.Net.Requests.resources.dll'
+2021-08-13T08:44:45.2752026+10:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.17\System.Net.Requests.resources.exe'
+2021-08-13T08:44:45.2752279+10:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.17'
+2021-08-13T08:44:45.2762109+10:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2021-08-13T08:44:45.2762209+10:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a

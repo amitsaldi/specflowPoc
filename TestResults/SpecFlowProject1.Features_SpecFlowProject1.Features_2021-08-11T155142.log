@@ -1,0 +1,154 @@
+﻿2021-08-11T15:51:42.1759574+10:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-08-11T15:51:42.1760213+10:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework netcore31 in x64 mode execution started
+2021-08-11T15:51:42.1760246+10:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-08-11T15:51:42.1782245+10:00;VSTestExecutionThread;Info;Current UserName: 'asaldi', MachineName: 'KMVN2542'
+2021-08-11T15:51:42.2986876+10:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2021-08-11T15:51:42.2988443+10:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\asaldi\Downloads\automation\SpecFlowProject1\TestResults" (default)
+2021-08-11T15:51:42.2988979+10:00;VSTestExecutionThread;Info;Profile: SpecFlowProject1.Features
+2021-08-11T15:51:42.3391871+10:00;VSTestExecutionThread;Info;Log file path: C:\Users\asaldi\Downloads\automation\SpecFlowProject1\TestResults\SpecFlowProject1.Features_SpecFlowProject1.Features_2021-08-11T155142.log
+2021-08-11T15:51:42.3452959+10:00;Thread#14;Info;Checking activation
+2021-08-11T15:51:42.4752498+10:00;Thread#14;Info;Activated.
+2021-08-11T15:51:42.4754409+10:00;Thread#14;Info;Activation check completed
+2021-08-11T15:51:42.4755061+10:00;Thread#14;Info;Starting test run
+2021-08-11T15:51:42.5624962+10:00;Thread#14;Info;Discovering target: Default
+2021-08-11T15:51:42.5627672+10:00;Thread#14;Info;Discovering tests from assembly: C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2021-08-11T15:51:42.6750891+10:00;Thread#14;Info;Discovered tests from assembly: C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2021-08-11T15:51:42.6784478+10:00:Test Suite Dump
+2021-08-11T15:51:42.6798218+10:00:#0: SpecFlowProject1.Features/SpecFlowProject1.Features - 
+2021-08-11T15:51:42.6798429+10:00:#1: Default - 
+2021-08-11T15:51:42.6798449+10:00:#2: SpecFlowProject1 - 
+2021-08-11T15:51:42.6798467+10:00:#3: Calculator - 
+2021-08-11T15:51:42.6798485+10:00:#5: Product Service - 
+2021-08-11T15:51:42.6807845+10:00:#4: Add two numbers - TestAssembly:SpecFlowProject1/Feature:Calculator/Scenario:Add+two+numbers
+2021-08-11T15:51:42.6808159+10:00:#6: Validate get All Attributes API - TestAssembly:SpecFlowProject1/Feature:Product+Service/Scenario:Validate+get+All+Attributes+API
+2021-08-11T15:51:42.6808401+10:00:End: Test Suite Dump
+2021-08-11T15:51:42.7094789+10:00:Thread#1:Scheduler: get next test for thread 1
+2021-08-11T15:51:42.7107489+10:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-08-11T15:51:42.7108009+10:00:Thread#1:Scheduler: considering testitem #4 for thread 1
+2021-08-11T15:51:42.7137915+10:00:Thread#1:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-08-11T15:51:42.7138121+10:00:Thread#1:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-08-11T15:51:42.7138138+10:00:Thread#1:TestItem#4:runsOnOneOtherThreadUnspecific:True
+2021-08-11T15:51:42.7138170+10:00:Thread#1:Scheduler: using testitem #4 for thread 1
+2021-08-11T15:51:42.7142954+10:00:Thread#1:Scheduler: Test #4 is scheduled for thread
+2021-08-11T15:51:42.7151875+10:00:Thread#1:Scheduler: with testItemExecutionIndex 0
+2021-08-11T15:51:42.7152205+10:00:Thread#0:Scheduler: get next test for thread 0
+2021-08-11T15:51:42.7152397+10:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2021-08-11T15:51:42.7152420+10:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2021-08-11T15:51:42.7152666+10:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2021-08-11T15:51:42.7152691+10:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2021-08-11T15:51:42.7152703+10:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:True
+2021-08-11T15:51:42.7152716+10:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2021-08-11T15:51:42.7152778+10:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2021-08-11T15:51:42.7152821+10:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-08-11T15:51:42.7152984+10:00:Thread#2:Scheduler: get next test for thread 2
+2021-08-11T15:51:42.7153061+10:00:Thread#:Scheduler: at the end of normal test queue
+2021-08-11T15:51:42.7153081+10:00:Thread#2:Scheduler: enumerator for thread is at end
+2021-08-11T15:51:42.7153097+10:00:Thread#2:Scheduler: No more tests for thread
+2021-08-11T15:51:42.7153240+10:00:Thread#3:Scheduler: get next test for thread 3
+2021-08-11T15:51:42.7153290+10:00:Thread#:Scheduler: at the end of normal test queue
+2021-08-11T15:51:42.7153305+10:00:Thread#3:Scheduler: enumerator for thread is at end
+2021-08-11T15:51:42.7153330+10:00:Thread#3:Scheduler: No more tests for thread
+2021-08-11T15:51:42.7153479+10:00:Thread#4:Scheduler: get next test for thread 4
+2021-08-11T15:51:42.7153527+10:00:Thread#:Scheduler: at the end of normal test queue
+2021-08-11T15:51:42.7153543+10:00:Thread#4:Scheduler: enumerator for thread is at end
+2021-08-11T15:51:42.7153554+10:00:Thread#4:Scheduler: No more tests for thread
+2021-08-11T15:51:42.7178225+10:00:Thread #1: creating new test thread executor for SpecFlowProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-08-11T15:51:42.7178249+10:00:Thread #0: creating new test thread executor for SpecFlowProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-08-11T15:51:42.7267170+10:00:Thread #0: Creating test assembly executor for execution model SharedAppDomain
+2021-08-11T15:51:42.7267170+10:00:Thread #1: Creating test assembly executor for execution model SharedAppDomain
+2021-08-11T15:51:42.7268767+10:00:Thread #1: Creating test assembly executor for execution model SharedAppDomain
+2021-08-11T15:51:42.7268821+10:00:Thread #0: Creating test assembly executor for execution model SharedAppDomain
+2021-08-11T15:51:42.7273924+10:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.SharedAppDomain.SharedAppDomainTestAssemblyExecutorHost to execute tests
+2021-08-11T15:51:42.7273922+10:00:Thread #1: using TechTalk.SpecRun.Framework.Execution.SharedAppDomain.SharedAppDomainTestAssemblyExecutorHost to execute tests
+2021-08-11T15:51:42.7432236+10:00:Assembly resolving TechTalk.SpecRun.Framework.Executor, Culture=neutral, PublicKeyToken=null
+2021-08-11T15:51:42.7432234+10:00:Assembly resolving TechTalk.SpecRun.Framework.Executor, Culture=neutral, PublicKeyToken=null
+2021-08-11T15:51:42.7459992+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' from .deps.json file
+2021-08-11T15:51:42.7459993+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' from .deps.json file
+2021-08-11T15:51:42.7460430+10:00:[AssemblyCache] Could not resolve 'TechTalk.SpecRun.Framework.Executor' from .deps.json
+2021-08-11T15:51:42.7460447+10:00:[AssemblyCache] Could not resolve 'TechTalk.SpecRun.Framework.Executor' from .deps.json
+2021-08-11T15:51:42.7473074+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-08-11T15:51:42.7473074+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-08-11T15:51:42.7476523+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll'
+2021-08-11T15:51:42.7476604+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll'
+2021-08-11T15:51:42.7477806+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.exe'
+2021-08-11T15:51:42.7477851+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.exe'
+2021-08-11T15:51:42.7478266+10:00:[AssemblyCache] Could not resolve 'TechTalk.SpecRun.Framework.Executor' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-08-11T15:51:42.7478406+10:00:[AssemblyCache] Could not resolve 'TechTalk.SpecRun.Framework.Executor' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-08-11T15:51:42.7480615+10:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-08-11T15:51:42.7480652+10:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-08-11T15:51:42.7482588+10:00:Tfm: netcoreapp3.1
+2021-08-11T15:51:42.7482602+10:00:Tfm: netcoreapp3.1
+2021-08-11T15:51:42.7482668+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-11T15:51:42.7482669+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' in folder 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-11T15:51:42.7482681+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll'
+2021-08-11T15:51:42.7482685+10:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecRun.Framework.Executor' to 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll'
+2021-08-11T15:51:42.7483535+10:00:[AssemblyCache] Found file 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll' for assembly 'TechTalk.SpecRun.Framework.Executor'
+2021-08-11T15:51:42.7483575+10:00:[AssemblyCache] Found file 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll' for assembly 'TechTalk.SpecRun.Framework.Executor'
+2021-08-11T15:51:42.7560737+10:00:[AssemblyCache] Resolved 'TechTalk.SpecRun.Framework.Executor' to C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll
+2021-08-11T15:51:42.7561250+10:00:[AssemblyCache] Resolved 'TechTalk.SpecRun.Framework.Executor' to C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.dll
+2021-08-11T15:51:42.8661604+10:00:Thread#1:T:-> Loading plugin C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-08-11T15:51:42.9207654+10:00:Thread#1:T:-> Loading plugin C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-08-11T15:51:42.9289598+10:00:Thread#1:T:-> Loading plugin C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2021-08-11T15:51:42.9529504+10:00:Thread#1:T:-> Missing [assembly:RuntimePlugin] attribute in SpecFlowProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-08-11T15:51:42.9569679+10:00:Thread#1:T:-> Using default config
+2021-08-11T15:51:43.0166616+10:00:Thread#1: Test #4/0 is started on thread #1
+2021-08-11T15:51:43.0171402+10:00:Thread#0: Test #6/0 is started on thread #0
+2021-08-11T15:51:43.0300574+10:00:Thread#1:B:Given the first number is 50
+2021-08-11T15:51:43.0301213+10:00:Thread#0:B:Given the url is "https://app.products.int.ap-southeast-2.dev.a-sharedinfra.net/"
+2021-08-11T15:51:43.0452566+10:00:Thread#1:T:done: stepDefs.GivenTheFirstNumberIs(50) (0.0s)
+2021-08-11T15:51:43.0452652+10:00:Thread#0:T:done: stepDefs.GivenTheUrlIs("https://app.produ...") (0.0s)
+2021-08-11T15:51:43.0463493+10:00:Thread#0:B:Given I perform a GET operation for api/v1/attributes
+2021-08-11T15:51:43.0464262+10:00:Thread#1:B:And the second number is 70
+2021-08-11T15:51:43.0469100+10:00:Thread#1:T:done: stepDefs.GivenTheSecondNumberIs(70) (0.0s)
+2021-08-11T15:51:43.0470914+10:00:Thread#1:B:When the two numbers are added
+2021-08-11T15:51:43.0483351+10:00:Thread#1:T:done: stepDefs.WhenTheTwoNumbersAreAdded() (0.0s)
+2021-08-11T15:51:43.0493077+10:00:Thread#1:B:Then the result should be 120
+2021-08-11T15:51:43.0538821+10:00:Thread#1:T:done: stepDefs.ThenTheResultShouldBe(120) (0.0s)
+2021-08-11T15:51:43.0579146+10:00:Thread#1:Scheduler: get next test for thread 1
+2021-08-11T15:51:43.0579294+10:00:Thread#:Scheduler: at the end of normal test queue
+2021-08-11T15:51:43.0579314+10:00:Thread#1:Scheduler: enumerator for thread is at end
+2021-08-11T15:51:43.0579329+10:00:Thread#1:Scheduler: No more tests for thread
+2021-08-11T15:51:43.0623559+10:00:Thread#1: Test #4/0 is finished on thread #1 as Succeeded within 0.045051 seconds
+2021-08-11T15:51:45.8318975+10:00:Thread#0:T:done: stepDefs.GivenIPerformAGETOperationForApiVAttributes("api/v1/attributes") (2.8s)
+2021-08-11T15:51:45.8321449+10:00:Thread#0:B:Then I should have the response with status code 200
+2021-08-11T15:51:45.8401910+10:00:Thread#0:T:done: stepDefs.ThenIShouldHaveTheResponseWithStatusCode(200) (0.0s)
+2021-08-11T15:51:45.8431088+10:00:Thread#0:B:And the header should contain
+2021-08-11T15:51:45.8431153+10:00:Thread#0:B:  --- table step argument ---
+2021-08-11T15:51:45.8431163+10:00:Thread#0:B:  | headerName             | headerValue |
+2021-08-11T15:51:45.8431170+10:00:Thread#0:B:  | api-supported-versions | 1.0         |
+2021-08-11T15:53:58.2523546+10:00:Thread#0:T:done: stepDefs.ThenTheHeaderShouldContain(<table>) (132.4s)
+2021-08-11T15:53:58.2528066+10:00:Thread#0:Scheduler: get next test for thread 0
+2021-08-11T15:53:58.2528320+10:00:Thread#:Scheduler: at the end of normal test queue
+2021-08-11T15:53:58.2528360+10:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-08-11T15:53:58.2528466+10:00:Thread#0:Scheduler: No more tests for thread
+2021-08-11T15:53:58.2532023+10:00:Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 135.2360258 seconds
+2021-08-11T15:54:00.3560029+10:00:Trying to cancel thread
+2021-08-11T15:54:00.3560454+10:00:Thread cancelled
+2021-08-11T15:54:00.3560472+10:00:Trying to cancel thread
+2021-08-11T15:54:00.3560484+10:00:Thread cancelled
+2021-08-11T15:54:00.3560491+10:00:Trying to cancel thread
+2021-08-11T15:54:00.3560498+10:00:Thread cancelled
+2021-08-11T15:54:00.3560506+10:00:Trying to cancel thread
+2021-08-11T15:54:00.3560513+10:00:Thread cancelled
+2021-08-11T15:54:00.3560520+10:00:Trying to cancel thread
+2021-08-11T15:54:00.3560527+10:00:Thread cancelled
+2021-08-11T15:54:00.3592358+10:00:Thread#-1:Scheduler: get next test for thread -1
+2021-08-11T15:54:00.3592574+10:00:Thread#:Scheduler: at the end of normal test queue
+2021-08-11T15:54:00.3592597+10:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-08-11T15:54:00.3605652+10:00;Thread#14;Info;test run finished
+2021-08-11T15:54:00.3609900+10:00;Thread#14;Info;publishing test results
+2021-08-11T15:54:00.3610952+10:00;Thread#14;Info;Not publishing results.
+2021-08-11T15:54:00.3611644+10:00;Thread#14;Info;test results published
+2021-08-11T15:54:00.3612071+10:00;Thread#14;Info;generating reports
+2021-08-11T15:54:00.4265971+10:00;Thread#14;Info;Starting external report generation process
+2021-08-11T15:54:01.4132046+10:00;Thread#14;Info;Successfully generated reports.
+2021-08-11T15:54:01.4152887+10:00;Thread#14;Info;Successfully generated reports
+2021-08-11T15:54:01.4202925+10:00:Total: 2
+2021-08-11T15:54:01.4213267+10:00:Succeeded: 2
+2021-08-11T15:54:01.4214959+10:00:Ignored: 0
+2021-08-11T15:54:01.4216345+10:00:Pending: 0
+2021-08-11T15:54:01.4216411+10:00:Skipped: 0
+2021-08-11T15:54:01.4217866+10:00:Failed: 0
+2021-08-11T15:54:01.4254816+10:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-08-11T15:54:01.4255466+10:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\asaldi\Downloads\automation\SpecFlowProject1\TestResults\SpecFlowProject1.Features_SpecFlowProject1.Features_2021-08-11T155142.html'
+========== End of log file ==========
