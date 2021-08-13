@@ -257,4 +257,3 @@ C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\obj\Debug
 C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\obj\Debug\netcoreapp3.1\SpecFlowProject1.dll
 C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\obj\Debug\netcoreapp3.1\SpecFlowProject1.pdb
 C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\obj\Debug\netcoreapp3.1\SpecFlowProject1.genruntimeconfig.cache
-C:\Users\asaldi\Downloads\automation\SpecFlowProject1\SpecFlowProject1\obj\Debug\netcoreapp3.1\SpecFlowProject1.csproj.AssemblyReference.cache

@@ -40,9 +40,6 @@ namespace SpecFlowProject1.Steps
             IRestClient client = new RestClient(this._url);
             //Building the Request
             IRestRequest request = new RestRequest(path, Method.POST, DataFormat.Json);
-            //request.AddParameter("application/json", JsonConvert.SerializeObject(postThisRequest), ParameterType.RequestBody);
-            //request.AddHeader("Content-Type", "application/json");
-            //request.AddHeader("accept", "application/json");
 
             var attributes = new List<posts>() { new posts() { Category = "Planning", SubCategory = "Flexible", AttributeName = "KEY TREND", AttributeValue = "ASSYMETRIC" } };
 
@@ -53,7 +50,6 @@ namespace SpecFlowProject1.Steps
             //Make the API request and get response
             IRestResponse response = client.Execute(request);
             _scenarioContext.Add("restResponse", response);
-            Console.WriteLine("stop");
         }
 
 

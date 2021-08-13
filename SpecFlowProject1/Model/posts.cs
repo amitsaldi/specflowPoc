@@ -14,12 +14,3 @@ namespace SpecFlowProject1.Model
 
    
 }
-
-//[
-//  {
-//    "category": "Planning",
-//    "subCategory": "Flexible",
-//    "attributeName": "KEY TREND",
-//    "attributeValue": "ASSYMETRIC"
-//  }
-//]
